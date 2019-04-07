@@ -9,6 +9,9 @@ Conditions:
 2. Work only in the console
 3. The input variable contains the string "Hello World!". Located right after shebang and encode.
 4. No imports. Only your code.
+5. Only one "print()" in whole code.
+6. Most abstract code.
+7. The code should by as documented ap posssible.
 
 Evaluated:
 1. The number of rows filled.
